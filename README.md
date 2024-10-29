@@ -1,7 +1,3 @@
-Here’s a template for a README file for your YouTube video summarization program:
-
----
-
 # YouTube Video Summarizer
 
 This Python program automates the process of summarizing YouTube videos. Given a YouTube video URL, it extracts the video ID, retrieves the video transcript using the YouTube Transcript API, and generates a concise summary using Google’s Gemini API.
